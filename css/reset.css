@@ -25,6 +25,14 @@ a:not([class]) {
   text-decoration-skip-ink: auto;
 }
 
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
 img, picture {
   max-width: 100%;
   display: block;
